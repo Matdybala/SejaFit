@@ -12,13 +12,3 @@ SEJAfit é uma aplicação voltada para o acompanhamento de atividades físicas,
 ## Tecnologias Usadas
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Banco de Dados: MongoDB
-- Autenticação: JWT (JSON Web Tokens)
-
-## Como rodar o projeto
-
-### 1. Clonar o repositório
-
-```bash
-git clone https://github.com/usuario/SEJAfit.git
